@@ -1,0 +1,13 @@
+product_name='fans','books','plastics','laptops'
+prices_of_products=200,300,7000,50000
+f=200
+b=300
+p=7000
+l=50000
+quantity_produced=40,60,18,31
+n=40
+k=60
+c=18
+s=31
+total=f*n,b*k,p*c,l*s
+print(total)

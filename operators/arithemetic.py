@@ -1,0 +1,16 @@
+x=64
+y=36
+a=(x+y)
+print(a)
+b=(x-y)
+print(b)
+c=(x*y)
+print(c)
+d=(x/y)
+print(d)
+e=(x%y)
+print(e)
+f=(x**y)
+print(f)
+g=(x//y)
+print(g)
